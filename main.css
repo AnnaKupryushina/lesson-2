@@ -36,10 +36,11 @@ h3{
     
 }
 
-.header{
-    width: 50%;
+.center{
+    width: 100%;
     margin: auto;
     margin-top: 80px;
+   
    
 }
 .round{
@@ -48,18 +49,15 @@ h3{
     padding: 10px;
    
 }
-.lamp{
-    width: 21px;
-    height: 26px;
 
-}
-.center{
-display: table-cell;
-text-align: center;
+header{
+    
 vertical-align: middle;
+text-align: center;
 width: 50%;
 margin: auto;
 }
-.allbox{
+
+main{
     text-align: center;
 }
