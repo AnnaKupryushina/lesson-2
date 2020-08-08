@@ -1,7 +1,6 @@
 
 body{
     margin: 0;
-   
 }
 
 
@@ -14,8 +13,6 @@ hr{
     background-color: #FF8B38;
     width: 64px;
     height: 2px;
-
-
 }
 h2{
     font-family: 'Open Sans', sans-serif;
@@ -24,16 +21,13 @@ h2{
 h3{
     font-family: 'Open Sans', sans-serif;
     white-space: nowrap;
-   
-  
- 
 }
 .box{
   display: inline-block;
     width: 350px;
     height: 197px;
     margin-top: 80px;
-    padding: 10px;
+    padding: 50px;
     text-align: center;
     
 }
