@@ -1,12 +1,12 @@
 
 body{
     margin: 0;
-    box-sizing: border-box;
+   
 }
-
 .wrap {
     width: 100%;
- 
+    text-align: center;
+
 h1{
 
     font-family: 'Raleway', sans-serif;
@@ -35,7 +35,7 @@ h3{
     width: 350px;
     height: 197px;
     margin-top: 80px;
-    padding: 40px;
+    padding: 10px;
     text-align: center;
     
 }
@@ -64,5 +64,4 @@ margin: auto;
 
 main{
     text-align: center;
-    font-size:0;
 }
