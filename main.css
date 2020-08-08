@@ -1,12 +1,12 @@
 
 body{
     margin: 0;
-    
+    box-sizing: border-box;
 }
 
 .wrap {
     width: 100%;
-    text-align: center;
+ 
 h1{
 
     font-family: 'Raleway', sans-serif;
