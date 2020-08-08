@@ -31,7 +31,7 @@ h3{
     width: 350px;
     height: 197px;
     margin-top: 80px;
-    padding: 50px;
+    padding: 40px;
     text-align: center;
     
 }
@@ -60,4 +60,5 @@ margin: auto;
 
 main{
     text-align: center;
+    font-size:0;
 }
